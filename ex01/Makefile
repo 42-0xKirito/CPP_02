@@ -1,4 +1,4 @@
-NAME	= Fixed00
+NAME	= Fixed01
 
 SRC		= $(wildcard *.cpp) $(wildcard src/*.cpp)
 
